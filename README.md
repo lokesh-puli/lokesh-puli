@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokesh-puli
+- 👋 Hi, I’m @lokesh-puli12219900
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Python and Web Programming
 - 💞️ I’m looking to collaborate on Projects, Collabs, etc.
